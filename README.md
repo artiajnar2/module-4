@@ -1,5 +1,5 @@
 # ASSIGNMENT-MODULE-4- 
-BY ASHFIYA KHAN 
+BY Aarti Ajnar
 
 Module 4 Coding Assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers
